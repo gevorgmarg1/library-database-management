@@ -7,5 +7,6 @@ The aim of the project is to create a basic library database management system w
 6) See all of the books
 7) Checl the average rating of the books
 8) Check the number of books in the library
+
 The used data structures in the project are: Linked list with a struct and a alass
 The used algorithms are: Quick Sort, Brute Force
